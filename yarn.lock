@@ -2088,7 +2088,7 @@
     "@json-rpc-tools/types" "^1.7.6"
     "@pedrouid/environment" "^1.0.1"
 
-"@ladder/sdk@ladder-lab/sdk.git":
+"@ladder/sdk@ladder-lab/sdk.git#test_goerli":
   version "3.0.5"
   resolved "https://codeload.github.com/ladder-lab/sdk/tar.gz/872cf8cf3e7ab18f4b93eb7370caf3c88584de1d"
   dependencies:
